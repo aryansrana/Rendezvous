@@ -1,9 +1,3 @@
-# CS491-City-Nav-App
-
-Senior capstone project for the startup track
-
----
-
 ## Setup
 
 To get the application up and running, follow these steps:
